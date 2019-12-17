@@ -1,7 +1,7 @@
 # GartnerAssignmentQA
-QA Assignment 
 
-# Identify end-to-end scenarios and build test plans in English for our platform:
+
+Identify end-to-end scenarios and build test plans in English for our platform:
 
 # Happy Test Scenarios :-
 
