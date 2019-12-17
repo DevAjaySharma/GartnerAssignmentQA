@@ -1,0 +1,2 @@
+# GartnerAssignmentQA
+QA Assignment 
