@@ -1,9 +1,9 @@
 # GartnerAssignmentQA
 QA Assignment 
 
-#Identify end-to-end scenarios and build test plans in English for our platform:
+# Identify end-to-end scenarios and build test plans in English for our platform:
 
-#Happy Test Scenarios :-
+# Happy Test Scenarios :-
 
 1. -> For every review Text, Rating, Language should be provided. (Required feild validation)
 
@@ -15,7 +15,7 @@ QA Assignment
 
 5. -> System must be automatically detect duplicate reviews provided by the user.
 
-#Negative Test Scenarios :-
+# Negative Test Scenarios :-
 
 1. -> Data must not be processed if Rating not numeric and  is not between 1-5.
 
@@ -23,7 +23,7 @@ QA Assignment
 
 3. -> Data must not be processed if any of one requireed feild is missing (Text, Rating, Language).
 
-#Thoughts:-
+# Thoughts:-
 
 1. -> Text Input should have some text input range and accept only alphanumeric format (without special characters) to prevent Sql injection.
 
